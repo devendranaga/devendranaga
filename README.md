@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I code in C, C++, Python and Rust.
+I mostly write networking and security software / firmware for embedded systems such as switches, routers, devices such.
+I have expertise in writing modular, tiny, and performant firmware and software code for firewalls, and cryptography.
+If you'd like to hire me, you can create a bug in any of my repos, that is the easiest way i can respond.
+
 <!--
 **devendranaga/devendranaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
